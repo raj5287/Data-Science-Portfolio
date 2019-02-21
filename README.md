@@ -4,3 +4,6 @@ I have been working on different datasets like Amazon Fine Food Reviews, Persona
 Cancer diagnosis, What's happening in LA (real time dataset).
 
 ## Contents
+* Machine Learning
+* Natural Language Processing
+* Data Analysis And Visualization

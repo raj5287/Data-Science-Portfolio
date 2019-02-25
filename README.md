@@ -7,3 +7,4 @@ Cancer diagnosis, What's happening in LA (real time dataset).
 * Machine Learning
 * Natural Language Processing
 * Data Analysis And Visualization
+  * [TSNE on Amazon Fine Food Reviews](https://github.com/raj5287/Machine-Learning-Porfolio/blob/master/TSNE.ipynb) : Perfomed TSNE on Amazon Fine food Reviews

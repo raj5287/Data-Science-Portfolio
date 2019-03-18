@@ -5,7 +5,9 @@ Cancer diagnosis, What's happening in LA (real time dataset).
 
 ## Contents
 * Machine Learning
+  * [Personalised Cancer Diagnosis](https://github.com/raj5287/Machine-Learning-Porfolio/blob/master/PersonalizedCancerDiagnosis.ipynb) : Testing out several different supervised learning algorithms to build a model that accurately predicts a given genetic variations/mutations based on evidence from text-based clinical literature using various statistical analysis tools.
 * Natural Language Processing
+  * [KNN on Amazon Fine Food Reviews]() : Used KNN algorithm to predict the polarity of the reviews. Used various techniques to vectorize the text and improve the accuracy.
 * Data Analysis And Visualization
   * [TSNE on Amazon Fine Food Reviews](https://github.com/raj5287/Machine-Learning-Porfolio/blob/master/TSNE.ipynb) : Perfomed TSNE on Amazon Fine food Reviews to reduce the Word Vector Dimensions And See if Positive and Negative reviews can be separated or not.
   * [Dashboard Of NYPD Motor Vehicle Collisions](https://www.kaggle.com/raj5287/nypd-motor-vehicle-collisions): Dashboard of NYPD Motor Vehicle Collisions. This Dataset is updated almost daily. This dashboard is configured to run daily at 0000hrs UTC enabling the visuals to be upto date.

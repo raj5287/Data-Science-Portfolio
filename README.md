@@ -14,3 +14,4 @@ Cancer diagnosis, What's happening in LA (real time dataset).
   * [EDA on Haberman's Survival Dataset](https://github.com/raj5287/Machine-Learning-Porfolio/blob/master/haberman's%20dataset%20case%20study.ipynb) : Exploratory data analysis done on Haberman's Cancer Survival study Dataset
 * Deep Learning
   * [Amazon Fine food Reviews with LSTM](https://www.kaggle.com/raj5287/amazon-fine-food-reviews-using-lstm) : A dataset cotaining 500k datapoints of reviews of food by users on Amazon. Used LSTM to predict the polarity of the reviews
+ * [Music Generation Using Char RNN]() : Generating a good quality music after training on around 2000 data points. The dataset contains music in abc format.

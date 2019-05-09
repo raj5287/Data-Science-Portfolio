@@ -1,4 +1,4 @@
-# Machine-Learning-Porfolio
+# Machine-Learning-Portfolio
 Portfolio of Machine Learning Projects, I have worked for learning and academic purposes.
 I have been working on different datasets like Amazon Fine Food Reviews, Personalised
 Cancer diagnosis, What's happening in LA (real time dataset).

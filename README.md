@@ -5,7 +5,7 @@ Cancer diagnosis, What's happening in LA (real time dataset).
 
 ## Contents
 * Machine Learning
-  * [Personalised Cancer Diagnosis](https://github.com/raj5287/Machine-Learning-Porfolio/blob/master/PersonalizedCancerDiagnosis.ipynb) : Testing out several different supervised learning algorithms to build a model that accurately predicts a given genetic variations/mutations based on evidence from text-based clinical literature using various statistical analysis tools.
+  * [Personalised Cancer Diagnosis](https://github.com/raj5287/Machine-Learning-Portfolio/blob/master/PersonalizedCancer_tfidf.ipynb) : Testing out several different supervised learning algorithms to build a model that accurately predicts a given genetic variations/mutations based on evidence from text-based clinical literature using various statistical analysis tools.
 * Natural Language Processing
   * [KNN on Amazon Fine Food Reviews](https://github.com/raj5287/Machine-Learning-Porfolio/blob/master/Knn%20on%20Amazon%20food%20using%204%20methods.ipynb) : Used KNN algorithm to predict the polarity of the reviews. Used various techniques to vectorize the text and improve the accuracy.
   * [Logistic Regression on Amazon Fine Food Reviews](https://github.com/raj5287/Machine-Learning-Portfolio/blob/master/Logistic%20Regression%20K%20fold.ipynb) : Build a model using logistic regression on Amazon Fine Food Reviews using various vectorizing techniques.
